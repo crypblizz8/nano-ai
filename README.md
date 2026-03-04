@@ -5,3 +5,5 @@ ToDo
 - [ ] nanoGPT
 - [ ] nanoClaw
 - [ ] nanoRL
+- [ ] nanoAgent
+- [ ] babyAGI
